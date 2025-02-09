@@ -13,7 +13,7 @@ Landslides are natural disasters that occur globally, causing damage to infrastr
 
 ## Methodology  
 
-![Methodology Flowchart](https://raw.githubusercontent.com/ergeodiwakar/geobia_gee/main/Methodology.jpg) 
+![Methodology Flowchart](https://raw.githubusercontent.com/ergeodiwakar/geobia_gee/main/Methodology.jpg)
 
 The methodology involves several key steps:  
 
